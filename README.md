@@ -1,7 +1,8 @@
 推荐游戏
 ============
 
-<img src="https://store.steampowered.com/widget/1551360/596609/" frameborder="0" width="646" height="190"></img>
+[点击查看 Steam Widget](https://store.steampowered.com/widget/1551360/596609/)
+
 
 ------------------------------------
 
